@@ -1,0 +1,11 @@
+input{
+    width: 300px;
+    height: fit-content;
+    margin-bottom: 10px !important;
+}
+
+textarea{
+    width: 300px;
+    height: fit-content;
+    margin-bottom: 10px !important;
+}

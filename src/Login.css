@@ -1,0 +1,59 @@
+.bg{
+    width: 300px;
+    padding:40px;
+    margin: auto;
+    border-radius:20px ;
+    margin-top: 10px;
+    text-align: center;
+    background-color: aliceblue;
+    border: none !important;
+}
+.text{
+    color: rgb(66, 65, 66) ;
+
+}
+
+.inp{
+    width: 200px;
+    height: 20px;
+    
+}
+.button{
+    background-color: rgb(66, 65, 66);
+    color: aliceblue;
+    border-radius: 10px;
+    border: transparent;
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.reg{
+    color: blue;
+}
+.caa{
+   
+    justify-content: center;
+    align-items: center;
+}
+.inputt{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width:fit-content;
+    height: fit-content;
+    background-color:rgb(175, 121, 226);
+    border-radius: 6px;
+    border: transparent;
+    color: aliceblue;
+}
+.inputs{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+ }
+ 
+
+
